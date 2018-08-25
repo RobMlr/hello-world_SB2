@@ -1,1 +1,3 @@
-# hello-world_SB2
+# hello-world
+
+Zum Buch Spring Boot 2
